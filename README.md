@@ -114,17 +114,6 @@ Artificial Intelligence
 
 ---
 
-## 🍃 MERN Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=express"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
-
----
-
 ## 🗄 Databases
 
 <p>
