@@ -49,7 +49,7 @@ Currently, I'm expanding my expertise in **Spring Security, Microservices, Docke
 
 🥇 Java Programming
 <br/>
-🥇 Data Structures & Algorithms
+🥇 Data Structures & Algorithms (DSA) with Java
 <br/>
 🥇 Web Development
 <br/>
