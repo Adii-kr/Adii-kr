@@ -47,17 +47,17 @@ Currently, I'm expanding my expertise in **Spring Security, Microservices, Docke
 
 ## 🏆 Certifications
 
-🥇 Oracle Certified AI Foundations Associate
-<br/>
-🥇 Oracle Certified Generative AI Professional
-<br/>
 🥇 Java Programming
-<br/>
-🥇 React.js Development
 <br/>
 🥇 Data Structures & Algorithms
 <br/>
 🥇 Web Development
+<br/>
+🥇 React.js Development
+<br/>
+🥇 Oracle Certified AI Foundations Associate
+<br/>
+🥇 Oracle Certified Generative AI Professional
 
 ---
 
