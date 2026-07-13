@@ -214,22 +214,16 @@ Artificial Intelligence
 <!--                 CONNECT • SUPPORT • FOOTER                -->
 <!-- ========================================================= -->
 
-# 💼 Open to Opportunities
+## 💼 Open to Opportunities
 
-<div>
-💻 **Software Development Engineer (SDE)**
-<br/>
-☕ **Java Full Stack Developer**
-<br/>
-⚛️ **MERN Stack Developer**
-<br/>
-🤖 **AI Engineer**
-<br/>
-🚀 **Backend Developer** _*( SpringBoot / NodeJs / ExpressJs )*_
-<br/>
-🌐 **Full Stack Web Developer**
-</div>
+I'm currently open to internships and full-time opportunities in:
 
+- 💻 **Software Development Engineer (SDE)**
+- ☕ **Java Full Stack Developer**
+- ⚛️ **MERN Stack Developer**
+- 🤖 **AI Engineer**
+- 🚀 **Backend Developer** *(Spring Boot • Node.js • Express.js)*
+- 🌐 **Full Stack Web Developer**
 ---
 
 # 📌 Areas of Interest
