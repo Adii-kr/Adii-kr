@@ -126,7 +126,7 @@ Artificial Intelligence
 
 ## 🤖 AI & Machine Learning
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Generative_AI-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI_Engineer-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-1E90FF?style=for-the-badge"/>
